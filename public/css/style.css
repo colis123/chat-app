@@ -5,6 +5,7 @@
   --gradient: linear-gradient(#ffffff, #a1a3e2);
   --success-color: #5cb85c;
   --error-color: #d9534f;
+  --light-color: #fff;
 }
 
 * {
